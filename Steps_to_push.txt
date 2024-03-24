@@ -8,7 +8,8 @@
 7. git config --global user.name "ujj-kumar"
 8. git branch -M main
 9. git remote add origin https://github.com/ujj-kum/New_Repo.git
-# If error exists, 
+# If error exists, (Optional)
 10a. git remote remove origin
-10b. git remote add origin https://github.com/ujj-kum/New_Repo.git
-11. git push -u origin main
+# May require device authentication if doind it for the 1st time
+11. git remote add origin https://github.com/ujj-kum/New_Repo.git
+12. git push -u origin main
