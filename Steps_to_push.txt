@@ -1,0 +1,15 @@
+1. Create a new Repository in github(optional)
+2. Open terminal in IDE
+3. git init
+4. git add .
+-m shows the message
+5. git commit -m "Commit done locally"
+6. git config --global user.email "batman.c731@gmail.com" 
+7. git config --global user.name "ujj-kumar"
+8. git branch -M main
+9. git remote add origin https://github.com/ujj-kum/New_Repo.git
+# If error exists, (Optional)
+10a. git remote remove origin
+# May require device authentication if doind it for the 1st time
+11. git remote add origin https://github.com/ujj-kum/New_Repo.git
+12. git push -u origin main
